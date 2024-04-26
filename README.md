@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">・ Saudações, Meu nome é murilo >:)</h1>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">・ Saudações, Meu nome é Murilo >:)</h1>
 
 <p align="center"> 💻 | Estudando Análise e Desenvolvimento de Sistemas</p>
 <p align="center"> 👨‍💻 | Sediado na Etec Martinho Di Ciero Itu - Extensão Fatec</p>
